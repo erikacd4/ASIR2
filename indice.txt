@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 CapÃ­tulo 1: IntroducciÃ³n a Git
 CapÃ­tulo 2: Flujo de trabajo bÃ¡sico
 CapÃ­tulo 3: GestiÃ³n de ramas
 CapÃ­tulo 4: Repositorios remotos
 "Cap¡tulo 5: Conceptos avanzados" 
+=======
+"Cap¡tulo 1: Introducci¢n a Git" 
+"Cap¡tulo 2: Flujo de trabajo b sico" 
+"Cap¡tulo 3: Gesti¢n de ramas" 
+"Cap¡tulo 4: Repositorios remotos" 
+>>>>>>> eba5b52a92d22d94068f72e934ef1f0979461f46
